@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--League-->
+    <item name="spSetting" type="id" />
+    <item name="progressBar" type="id" />
+
+    <!--LMatchModelatch-->
+    <item name="last_container" type="id" />
+    <!--<item name="tvTitleLast" type="id" />-->
+    <item name="rv_match" type="id" />
+    <item name="spinner_last" type="id" />
+    <item name="tvdate_last" type="id" />
+    <item name="tv_home_last" type="id" />
+    <item name="tv_away_last" type="id" />
+    <item name="tv_home_score_last" type="id" />
+    <item name="tv_away_score_last" type="id" />
+
+    <!--NMatchModelatch-->
+    <item name="next_container" type="id" />
+    <!--<item name="tvTitleNext" type="id" />-->
+    <item name="rv_next_match" type="id" />
+    <item name="content_next" type="id" />
+    <item name="spinner_next" type="id" />
+    <item name="add_calender" type="id" />
+    <item name="tv_date_next" type="id" />
+    <item name="tv_home_next" type="id" />
+    <item name="tv_away_next" type="id" />
+
+    <!--Team-->
+    <item name="tv_name_teams" type="id" />
+    <item name="layout_team_list" type="id" />
+    <item name="iv_team" type="id" />
+    <item name="tv_desc_team" type="id" />
+    <item name="spinner_team" type="id" />
+    <item name="rv_team" type="id" />
+
+    <!--FavorMatchModelatch-->
+    <item name="fav_match_container" type="id" />
+    <item name="tv_title_fav" type="id" />
+    <item name="tv_date_fav_match" type="id" />
+    <item name="tv_home_fav_match" type="id" />
+    <item name="tv_away_fav_match" type="id" />
+    <item name="tv_home_score_fav" type="id" />
+    <item name="tv_away_score_fav" type="id" />
+    <item name="rv_fav_match" type="id" />
+
+    <!--FavorTeamModelTeam-->
+    <item name="fav_team_container" type="id" />
+    <item name="iv_fav_team" type="id" />
+    <item name="tv_name_fav_team" type="id" />
+    <item name="tv_desc_fav_eam" type="id" />
+    <item name="rv_fav_team" type="id" />
+
+    PlayerModelayer List-->
+    <item name="tv_player_name" type="id" />
+    <item name="iv_player" type="id" />
+    <item name="tv_player_position" type="id" />
+    <item name="rv_players" type="id" />
+
+    <!--Overview Fragment-->
+    <item name="tv_manager" type="id" />
+    <item name="tv_stadium" type="id" />
+    <item name="tv_born_team" type="id" />
+    <item name="tv_capacity" type="id" />
+    <item name="tv_location" type="id" />
+    <item name="tv_country" type="id" />
+    <item name="tv_stadium_desc" type="id" />
+    <item name="tv_team_desc" type="id" />
+
+    <!--Detail
+    <item name="ivImageDetail" type="id" />
+    <item name="tvTitleDetail" type="id" />
+    <item name="tvDescDetail" type="id" />-->
+
+    <!--Detail-->
+    <item name="alert_snackbar" type="id" />
+</resources>
